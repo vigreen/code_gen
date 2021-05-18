@@ -1,0 +1,1 @@
+export const defaultPattern = 'xXx-XxX-xXx';
